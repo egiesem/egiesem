@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @egiesem
-- 👀 I’m interested in webDev
+- 👀 I’m interested in webDev, mobDev, devOps
 - 🌱 I’m currently learning react native
 
 <!---
